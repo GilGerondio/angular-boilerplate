@@ -1,4 +1,4 @@
-import { ROle } from './role';
+import { Role } from './role';
 
 export class Account {
     id: string;
